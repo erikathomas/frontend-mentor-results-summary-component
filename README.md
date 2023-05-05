@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/erikathomas/frontend-mentor-results-summary-component](https://github.com/erikathomas/frontend-mentor-results-summary-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [[Add live site URL here](https://erika-frontend-mentor-results-summary.netlify.app/)]([https://your-live-site-url.com](https://erika-frontend-mentor-results-summary.netlify.app/))
 
 ## My process
 
